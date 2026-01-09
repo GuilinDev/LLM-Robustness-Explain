@@ -1,0 +1,8 @@
+# Core dependencies
+numpy>=1.21.0
+
+# LLM integration via Ollama
+ollama>=0.1.0
+
+# Optional: for enhanced text similarity (not required for basic usage)
+# sentence-transformers>=2.2.0
