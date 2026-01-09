@@ -123,8 +123,8 @@ If you use this code in your research, please cite:
 ```bibtex
 @inproceedings{robustexplain2026,
   title={RobustExplain: Evaluating LLM-Generated Recommendation Explanations under User Behavior Perturbations},
-  author={Zhang, Guilin and Zhao, Kai and Chen, Wei and Liu, Michael},
-  booktitle={Proceedings of the WWW 2026 Workshop on LLM \& Agents for Recommendation Systems},
+  author={Zhang, Guilin and Zhao, Kai and Others},
+  booktitle={},
   year={2026}
 }
 ```
