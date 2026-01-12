@@ -116,19 +116,6 @@ Our experiments with three LLM models reveal:
 - Larger models (14B) demonstrate ~5.5% higher robustness than smaller models (7-8B)
 - Robustness remains stable across severity levels with only 1.7% degradation
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@inproceedings{robustexplain2026,
-  title={RobustExplain: Evaluating LLM-Generated Recommendation Explanations under User Behavior Perturbations},
-  author={Zhang, Guilin and Zhao, Kai and Others},
-  booktitle={},
-  year={2026}
-}
-```
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
