@@ -1,4 +1,4 @@
-# RobustExplain: Evaluating LLM-Generated Recommendation Explanations under User Behavior Perturbations
+# RobustExplain: Evaluating Robustness of LLM-Based Explanation Agents for Recommendation
 
 This repository contains the implementation of **RobustExplain**, a systematic evaluation framework for assessing the robustness of LLM-generated recommendation explanations under user behavior perturbations.
 
